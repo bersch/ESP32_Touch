@@ -6,6 +6,4 @@ Behaves like PC-Keyboard.
 
 Example Code.
 
-No license. 
-
-Get happy with it.
+No license.
